@@ -52,7 +52,7 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 - Provided architecture, implementation, and pre-sales support for CP MetaDirectory
 - Created custom solutions for customers based on specific business requirements and rules
 
-## What are my Certifications?
+## What are my certifications?
 
 ### Certified Information Systems Security Professional (CISSP) 42777
 
