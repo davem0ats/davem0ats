@@ -6,8 +6,8 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 
 ## Where can you find me?
 
-- twitter [@davemoats](https://twitter.com/davemoats)
-- linkedin [Dave Moats](https://www.linkedin.com/in/davemoats/)
+- *Twitter* [@davemoats](https://twitter.com/davemoats)
+- *LinkedIn* [Dave Moats](https://www.linkedin.com/in/davemoats/)
 
 ## What am I doing?
 
