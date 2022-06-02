@@ -13,7 +13,7 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 
 ### Distinguished Architect
 
-#### Walmart Global Tech : Jan 2017 - Present
+#### Infosec - Walmart Global Tech : Jan 2017 - Present
 
 - Solving challenging problems at scale
 - Creating innovative solutions
