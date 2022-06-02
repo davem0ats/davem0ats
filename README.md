@@ -15,9 +15,10 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 
 #### Walmart Global Tech : Jan 2017 - Present
 
-- Creating innovative answers for difficult problems
-- Delivering quality solutions
-- Working with very smart and skilled people
+- Creating innovative solutions for difficult problems
+- Delivering quality
+- Mentoring very smart / skilled people
+- Growing a high performing team
 
 ### Partner / Architect
 
