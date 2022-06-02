@@ -19,7 +19,7 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 - Delivering quality solutions
 - Working with very smart and skilled people
 
-### Partner / Systems Architect
+### Partner / Architect
 
 #### Engineering with IT : 2006 - Jan 2017
 
