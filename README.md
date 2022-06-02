@@ -9,7 +9,7 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 - twitter [@davemoats](https://twitter.com/davemoats)
 - linkedin [Dave Moats](https://www.linkedin.com/in/davemoats/)
 
-## What am I doing and have I done?
+## What am I doing?
 
 ### Distinguished Architect
 
@@ -20,6 +20,8 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 - Delivering quality
 - Mentoring very smart / skilled people
 - Growing a high performing team
+
+## What have I done?
 
 ### Partner / Architect
 
