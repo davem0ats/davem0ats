@@ -15,7 +15,8 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 
 #### Walmart Global Tech : Jan 2017 - Present
 
-- Creating innovative solutions for difficult problems
+- Solving challenging problems at scale
+- Creating innovative solutions
 - Delivering quality
 - Mentoring very smart / skilled people
 - Growing a high performing team
