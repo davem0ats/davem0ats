@@ -52,10 +52,6 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 - Provided architecture, implementation, and pre-sales support for CP MetaDirectory
 - Created custom solutions for customers based on specific business requirements and rules
 
-## What are my certifications?
-
-### Certified Information Systems Security Professional (CISSP) 42777
-
 <!---
 davem0ats/davem0ats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
