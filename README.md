@@ -2,7 +2,9 @@
 
 ## Who am I?
 
-Solutions-oriented Infosec Professional / Developer with notable success in a broad range of corporate initiatives.
+At Walmart Global Tech, harnessing over two decades of expertise, I architect and innovate information security solutions that address complex challenges and drive enterprise advancement. My role as a Senior Distinguished Engineer focuses on delivering robust software systems, enhancing technology across the organization, and ensuring the security of our vast network.
+
+The organization benefits from my leadership in building agile, high-performing teams, which has established a culture of excellence and timely delivery. With competencies in network administration, system deployment, and software development, I am dedicated to fostering an environment that prioritizes secure, scalable solutions and contributes to Walmart's strategic objectives.
 
 ## Where can you find me?
 
@@ -11,15 +13,16 @@ Solutions-oriented Infosec Professional / Developer with notable success in a br
 
 ## What am I doing?
 
-### Distinguished Architect
+### Senior Distinguished I, Software Engineer
 
 #### Infosec - Walmart Global Tech : Jan 2017 - Present
 
-- Solving challenging problems at scale
-- Creating innovative solutions
-- Delivering quality
-- Mentoring very smart / skilled people
-- Growing a high performing team
+- **Innovative Solutions:** Spearheaded the development of cutting-edge solutions to address complex problems, enhancing enterprise technology and security.
+- **Leadership & Mentorship:** Built and led high-performing, agile teams, consistently delivering quality results on time. Recognized for mentoring associates across all skill levels.
+- **Problem-Solving Expertise:** Known as the go-to expert for resolving unsolvable issues, providing critical insights and solutions.
+- **Strategic Communication:** Excelled in communicating with stakeholders and executives, securing buy-in and sponsorship for key initiatives.
+- **Risk Reduction Focus:** Implemented strategies that significantly reduced risk and avoided potential issues, ensuring the stability and security of systems.
+- **Calm Under Pressure:** Maintained composure and diplomacy in high-stress situations, ensuring smooth project execution and stakeholder satisfaction.
 
 ## What have I done?
 
